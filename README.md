@@ -28,7 +28,7 @@ Key Differences in Weather: Oahu, Hawaii
 The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
 I would say that even though temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream. The average temperatures in June and December only differ by 4 degrees .
 
-Before making a final deicision though, I would want to perform some additional queries to get more color on weather conditions in these two months.
+Before making a final deicision though, I would want to perform some additional queries to get more information on weather conditions in these two months.
 
 * Firstly , I would like to delve into the summary statistics of temperatures recorded by station for each month. This can help determine geopgraphically where in Oahu to build the prospective shop. By comparing the variances in temperatures and the frequencies recorded, we can narrow in on an optimal location.
 * Secondly , I would like to review other important variables that are correlated with optimal beach and surfing weather.
