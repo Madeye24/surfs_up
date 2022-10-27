@@ -13,7 +13,7 @@ For the month of June:
 
 ![Screen Shot 2022-10-26 at 7 53 21 PM](https://user-images.githubusercontent.com/111619125/198160159-a0c671e2-f5cc-46ae-ac5e-177dfe406594.png)
 
-For the month of July:
+For the month of December:
 
 ![Screen Shot 2022-10-26 at 7 55 17 PM](https://user-images.githubusercontent.com/111619125/198160240-7cd325f8-7b0d-4763-9e3b-cbfad38221d0.png)
 
